@@ -1,7 +1,8 @@
 # Certificação Java OCP 21
-<center>
-![](./asserts/image.png)
-</center>
+<div align="center">
+  <img src="images/image.png" alt="logo" width="200" height="auto" />
+</div>
+
 
 - [Cronograma de estudo](cronograma-estudo-ocp-21.md)
 
