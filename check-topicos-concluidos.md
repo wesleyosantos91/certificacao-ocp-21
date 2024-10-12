@@ -1,6 +1,6 @@
 #  Tópicos concluidos
 
-- [ ] Records and Sealed
+- [x] Records and Sealed
 - [ ] Declartion, Instantiation, LVTI, Nested Classes
 - [ ] Interfaces
 - [ ] OO Encapsulation, Overloading, Overrriding
