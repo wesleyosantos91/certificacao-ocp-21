@@ -1,11 +1,11 @@
 1. Introdução ao Java
 
-- [ ] Visão Geral do Curso
-- [ ] Explicar as Características do Java e Conceitos de Orientação a Objetos
-- [ ] Definir, Compilar e Executar um Programa Java
-- [ ] Prática 1-1: Verificar a Instalação do JDK
-- [ ] Prática 1-2: Criar, Compilar e Executar uma Aplicação Java
-- [ ] Verificação de Habilidade: Introdução ao Java
+- [x] Visão Geral do Curso
+- [x] Explicar as Características do Java e Conceitos de Orientação a Objetos
+- [x] Definir, Compilar e Executar um Programa Java
+- [x] Prática 1-1: Verificar a Instalação do JDK
+- [x] Prática 1-2: Criar, Compilar e Executar uma Aplicação Java
+- [x] Verificação de Habilidade: Introdução ao Java
 
 2. Tipos Primitivos, Operadores e Declarações de Controle de Fluxo
 
